@@ -3,8 +3,15 @@
 
 execution 
 
-           before you uses this python script you need to create a account in sendgrid it will provids the smtp relay services.
-           just open that python with any editor and specify the credentils of smtp relay server and sender and receiver email IDs
-           thats it then you can send emails to any email ID.
+           before you use this python script you need to create an account in sendgrid it will provide the SMTP relay services.
+           just open that python file with any editor and specify the credentials of the SMTP relay server and sender and receiver email IDs and message that you want to send to your receivers.
+           
+           give execute permissions to the python file 
+           
+           chmod +x spoofer.py
+           
+           ./spoofer.py
+           
+           that's it then you can send emails to any email ID.
            
            
